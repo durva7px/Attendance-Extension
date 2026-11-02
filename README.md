@@ -21,5 +21,6 @@ A smart, browser-based extension that scrapes and analyzes student attendance fr
 ## Authors
 
 - Yadhnika Wakde - yadhnikawakde@gmail.com
+- Durva Deshpande - durvadeshpande.dev@gmail.com
 
 ---
